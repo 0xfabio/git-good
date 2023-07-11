@@ -1,3 +1,7 @@
+function log(message) {
+    console.log(message);
+}
+
 function main() {
-    console.log('Hello World!');
+    log('Hello World!');
 }
