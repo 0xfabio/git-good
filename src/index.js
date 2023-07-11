@@ -3,5 +3,5 @@ function log(message) {
 }
 
 function main() {
-    log('Hello World!');
+    log('Guten Tag');
 }
